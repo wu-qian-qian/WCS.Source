@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2avGonmdoQk=",
+  "success": true,
+  "projectFilePath": "D:\\Program\\仓库\\WCS\\WCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.11\\microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.11\\microsoft.net.illink.tasks.8.0.11.nupkg.sha512",
+    "C:\\Users\\吴\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
