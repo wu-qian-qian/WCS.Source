@@ -2,71 +2,68 @@
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
+namespace Common.Infrastructure.Swagger;
 
-namespace Common.Infrastructure.Swagger
+public static class SwaggerExtensions
 {
-    public static class SwaggerExtensions
+    /// <summary>
+    ///     Swagger 配置
+    /// </summary>
+    /// <param name="services"></param>
+    /// <param name="title"></param>
+    /// <param name="version"></param>
+    /// <param name="desc"></param>
+    /// <returns></returns>
+    public static IServiceCollection AddSwaggerConfigurator(this IServiceCollection services, string title = "API",
+        string version = "v1",
+        string desc = "API built using the modular monolith architecture.")
     {
-        /// <summary>
-        /// Swagger 配置
-        /// </summary>
-        /// <param name="services"></param>
-        /// <param name="title"></param>
-        /// <param name="version"></param>
-        /// <param name="desc"></param>
-        /// <returns></returns>
-        public static IServiceCollection AddSwaggerConfigurator(this IServiceCollection services, string title = "API", string version = "v1",
-            string desc = "API built using the modular monolith architecture.")
+        services.AddSwaggerGen(options =>
         {
-            services.AddSwaggerGen(options =>
+            options.SwaggerDoc("v1", new OpenApiInfo
             {
-                options.SwaggerDoc("v1", new OpenApiInfo
-                {
-                    Title = title,
-                    Version = version,
-                    Description = desc
-                });
-
-                options.CustomSchemaIds(t => t.FullName?.Replace("+", "."));
+                Title = title,
+                Version = version,
+                Description = desc
             });
 
-            return services;
-        }
+            options.CustomSchemaIds(t => t.FullName?.Replace("+", "."));
+        });
 
-        /// <summary>
-        /// 为Swagger增加Authentication报文头
-        /// </summary>
-        /// <param name="c"></param>
-        public static void AddAuthenticationHeader(this SwaggerGenOptions c)
+        return services;
+    }
+
+    /// <summary>
+    ///     为Swagger增加Authentication报文头
+    /// </summary>
+    /// <param name="c"></param>
+    public static void AddAuthenticationHeader(this SwaggerGenOptions c)
+    {
+        c.AddSecurityDefinition("Authorization", new OpenApiSecurityScheme
         {
-            c.AddSecurityDefinition("Authorization", new OpenApiSecurityScheme
-            {
-                Description = "Authorization header. \r\nExample: 'Bearer 12345abcdef'",
-                Name = "Authorization",
-                In = ParameterLocation.Header,
-                Type = SecuritySchemeType.ApiKey,
-                Scheme = "Authorization"
-            });
+            Description = "Authorization header. \r\nExample: 'Bearer 12345abcdef'",
+            Name = "Authorization",
+            In = ParameterLocation.Header,
+            Type = SecuritySchemeType.ApiKey,
+            Scheme = "Authorization"
+        });
 
-            c.AddSecurityRequirement(new OpenApiSecurityRequirement()
+        c.AddSecurityRequirement(new OpenApiSecurityRequirement
+        {
             {
+                new OpenApiSecurityScheme
                 {
-                    new OpenApiSecurityScheme
+                    Reference = new OpenApiReference
                     {
-                        Reference = new OpenApiReference
-                        {
-                            Type = ReferenceType.SecurityScheme,
-                            Id = "Authorization"
-                        },
-                        Scheme = "oauth2",
-                        Name = "Authorization",
-                        In = ParameterLocation.Header,
+                        Type = ReferenceType.SecurityScheme,
+                        Id = "Authorization"
                     },
-                    new List<string>()
-                }
-            });
-        }
+                    Scheme = "oauth2",
+                    Name = "Authorization",
+                    In = ParameterLocation.Header
+                },
+                new List<string>()
+            }
+        });
     }
 }
-
-

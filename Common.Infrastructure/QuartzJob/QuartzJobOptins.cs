@@ -1,14 +1,14 @@
-﻿namespace Common.Domain
+﻿namespace Common.Domain;
+
+/// <summary>
+///     超时字段名
+/// </summary>
+public static class JobConstTitle
 {
-    /// <summary>
-    /// 超时字段名
-    /// </summary>
-    public static class JobConstTitle
-    {
-        public const string TimeoutSeconds = "TimeoutSeconds";
-    }
-    public  record QuartzJobOptins( int TimeOut = 5)
-    {
-        public string TimeoutSeconds { get; } =JobConstTitle.TimeoutSeconds;
-    }
+    public const string TimeoutSeconds = "TimeoutSeconds";
+}
+
+public record QuartzJobOptins(int TimeOut = 5)
+{
+    public string TimeoutSeconds { get; } = JobConstTitle.TimeoutSeconds;
 }

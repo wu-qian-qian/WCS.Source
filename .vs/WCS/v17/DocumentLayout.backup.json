@@ -3,40 +3,75 @@
   "WorkspaceRootPath": "D:\\Program\\\u4ED3\u5E93\\WCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wcs.Source\\Wcs.Source.csproj|d:\\program\\\u4ED3\u5E93\\wcs.source\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common\\transferbuffer\\transferbufferhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|solutionrelative:common\\transferbuffer\\transferbufferhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\quartzjob\\quartzjoboptins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\quartzjob\\quartzjoboptins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common\\helper\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|solutionrelative:common\\helper\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\infrastructureconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DB9EE31A-445D-40E7-8A91-7CDD6E2D50E0}|WCS.Shared\\WCS.Shared.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.shared\\s7type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9EE31A-445D-40E7-8A91-7CDD6E2D50E0}|WCS.Shared\\WCS.Shared.csproj|solutionrelative:wcs.shared\\s7type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wcs.Source\\Wcs.Source.csproj|d:\\program\\\u4ED3\u5E93\\wcs.source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common\\http\\httpextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD8D1E2-A6CE-40B9-9A84-455336CF8034}|Common\\Common.csproj|solutionrelative:common\\http\\httpextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wcs.Source\\Wcs.Source.csproj|d:\\program\\\u4ED3\u5E93\\wcs.source\\work\\testjoboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EB214E9-0529-4C80-845C-6E799110C216}|WCS.Infrastructure\\WCS.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.infrastructure\\s7net\\s7nettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB214E9-0529-4C80-845C-6E799110C216}|WCS.Infrastructure\\WCS.Infrastructure.csproj|solutionrelative:wcs.infrastructure\\s7net\\s7nettoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wcs.Source\\Wcs.Source.csproj|d:\\program\\\u4ED3\u5E93\\wcs.source\\work\\testjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.application\\applicationconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|solutionrelative:wcs.application\\applicationconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\quartzjob\\basejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\quartzjob\\basejob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6783A26-49E1-456E-AC83-AE42F9D4F8C4}|WCS.Domain\\WCS.Domain.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.domain\\s7\\s7entityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6783A26-49E1-456E-AC83-AE42F9D4F8C4}|WCS.Domain\\WCS.Domain.csproj|solutionrelative:wcs.domain\\s7\\s7entityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\quartzjob\\quartzjoblistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\quartzjob\\quartzjoblistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6783A26-49E1-456E-AC83-AE42F9D4F8C4}|WCS.Domain\\WCS.Domain.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.domain\\s7\\s7netconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6783A26-49E1-456E-AC83-AE42F9D4F8C4}|WCS.Domain\\WCS.Domain.csproj|solutionrelative:wcs.domain\\s7\\s7netconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\quartzjob\\quatrzjobextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\quartzjob\\quatrzjobextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EB214E9-0529-4C80-845C-6E799110C216}|WCS.Infrastructure\\WCS.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.infrastructure\\infrastructureconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB214E9-0529-4C80-845C-6E799110C216}|WCS.Infrastructure\\WCS.Infrastructure.csproj|solutionrelative:wcs.infrastructure\\infrastructureconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\authentication\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\authentication\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\common.infrastructure\\infrastructureconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940956C-BD2C-4720-BD6C-5798FBF81C02}|Common.Infrastructure\\Common.Infrastructure.csproj|solutionrelative:common.infrastructure\\infrastructureconfigurator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wes.Source\\Wes.Source.csproj|d:\\program\\\u4ED3\u5E93\\wes.source\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.application\\behaviors\\reads7plcpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|solutionrelative:wcs.application\\behaviors\\reads7plcpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wes.Source\\Wes.Source.csproj|d:\\program\\\u4ED3\u5E93\\wes.source\\mediatr\\testpipelinbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08ED88FA-F2C0-43A4-829E-985C3990C982}|..\\Common.Application\\Common.Application.csproj|d:\\program\\\u4ED3\u5E93\\common.application\\mediatr\\behaviors\\validationpipelinebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wes.Source\\Wes.Source.csproj|d:\\program\\\u4ED3\u5E93\\wes.source\\mediatr\\testcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C2DDA8-87E8-4CBB-96FF-24C8583D5477}|..\\Wes.Source\\Wes.Source.csproj|d:\\program\\\u4ED3\u5E93\\wes.source\\mediatr\\testquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.application\\readplc\\readplceventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|solutionrelative:wcs.application\\readplc\\readplceventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.application\\readplc\\readlplceventhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|solutionrelative:wcs.application\\readplc\\readlplceventhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|d:\\program\\\u4ED3\u5E93\\wcs\\wcs.application\\readplc\\readplceventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770F9E5-9F2D-4869-AF1C-AE7E2BE2886B}|WCS.Application\\WCS.Application.csproj|solutionrelative:wcs.application\\readplc\\readplceventcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,132 +106,231 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "QuartzJobOptins.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuartzJobOptins.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\QuartzJob\\QuartzJobOptins.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuartzJobOptins.cs",
-              "RelativeToolTip": "Common.Infrastructure\\QuartzJob\\QuartzJobOptins.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAATAAAAAAAAAA==",
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\Helper\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Common\\Helper\\EnumHelper.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\Helper\\EnumHelper.cs",
+              "RelativeToolTip": "Common\\Helper\\EnumHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:15:15.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T08:07:30.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuartzJobListener.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuartzJobListener.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\QuartzJob\\QuartzJobListener.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuartzJobListener.cs",
-              "RelativeToolTip": "Common.Infrastructure\\QuartzJob\\QuartzJobListener.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TransferBufferHelper.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\TransferBuffer\\TransferBufferHelper.cs",
+              "RelativeDocumentMoniker": "Common\\TransferBuffer\\TransferBufferHelper.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\TransferBuffer\\TransferBufferHelper.cs",
+              "RelativeToolTip": "Common\\TransferBuffer\\TransferBufferHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:14:23.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestJob.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Work\\TestJob.cs",
-              "RelativeDocumentMoniker": "..\\Wcs.Source\\Work\\TestJob.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Work\\TestJob.cs",
-              "RelativeToolTip": "..\\Wcs.Source\\Work\\TestJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:03:37.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuatrzJobExtensions.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuatrzJobExtensions.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\QuartzJob\\QuatrzJobExtensions.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\QuatrzJobExtensions.cs",
-              "RelativeToolTip": "Common.Infrastructure\\QuartzJob\\QuatrzJobExtensions.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:46:07.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseJob.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\BaseJob.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\QuartzJob\\BaseJob.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\QuartzJob\\BaseJob.cs",
-              "RelativeToolTip": "Common.Infrastructure\\QuartzJob\\BaseJob.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:24:59.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestJobOptions.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Work\\TestJobOptions.cs",
-              "RelativeDocumentMoniker": "..\\Wcs.Source\\Work\\TestJobOptions.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Work\\TestJobOptions.cs",
-              "RelativeToolTip": "..\\Wcs.Source\\Work\\TestJobOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T03:10:48.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InfrastructureConfiguration.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\InfrastructureConfiguration.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\InfrastructureConfiguration.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\InfrastructureConfiguration.cs",
-              "RelativeToolTip": "Common.Infrastructure\\InfrastructureConfiguration.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyQAAABaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T03:09:09.84Z",
+              "WhenOpened": "2025-07-10T07:57:11.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Wcs.Source\\Program.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\Program.cs",
-              "RelativeToolTip": "..\\Wcs.Source\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvxcAAAAiAAAAAAAAAA==",
+              "Title": "HttpExtension.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\Http\\HttpExtension.cs",
+              "RelativeDocumentMoniker": "Common\\Http\\HttpExtension.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common\\Http\\HttpExtension.cs",
+              "RelativeToolTip": "Common\\Http\\HttpExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T03:09:05.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T07:49:40.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\Wcs.Source\\appsettings.json",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wcs.Source\\appsettings.json*",
-              "RelativeToolTip": "..\\Wcs.Source\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-07T03:08:00.383Z",
-              "EditorCaption": ""
+              "DocumentIndex": 4,
+              "Title": "S7NetToken.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Infrastructure\\S7Net\\S7NetToken.cs",
+              "RelativeDocumentMoniker": "WCS.Infrastructure\\S7Net\\S7NetToken.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Infrastructure\\S7Net\\S7NetToken.cs",
+              "RelativeToolTip": "WCS.Infrastructure\\S7Net\\S7NetToken.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:35:30.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "S7Type.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Shared\\S7Type.cs",
+              "RelativeDocumentMoniker": "WCS.Shared\\S7Type.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Shared\\S7Type.cs",
+              "RelativeToolTip": "WCS.Shared\\S7Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:05:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "S7EntityItem.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Domain\\S7\\S7EntityItem.cs",
+              "RelativeDocumentMoniker": "WCS.Domain\\S7\\S7EntityItem.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Domain\\S7\\S7EntityItem.cs",
+              "RelativeToolTip": "WCS.Domain\\S7\\S7EntityItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T05:03:58.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "S7NetConfig.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Domain\\S7\\S7NetConfig.cs",
+              "RelativeDocumentMoniker": "WCS.Domain\\S7\\S7NetConfig.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Domain\\S7\\S7NetConfig.cs",
+              "RelativeToolTip": "WCS.Domain\\S7\\S7NetConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:10:24.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AuthenticationExtensions.cs",
-              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\Authentication\\AuthenticationExtensions.cs",
-              "RelativeDocumentMoniker": "Common.Infrastructure\\Authentication\\AuthenticationExtensions.cs",
-              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\Authentication\\AuthenticationExtensions.cs",
-              "RelativeToolTip": "Common.Infrastructure\\Authentication\\AuthenticationExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAA5AAAAAAAAAA==",
+              "Title": "InfrastructureConfigurator.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\InfrastructureConfigurator.cs",
+              "RelativeDocumentMoniker": "Common.Infrastructure\\InfrastructureConfigurator.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\Common.Infrastructure\\InfrastructureConfigurator.cs",
+              "RelativeToolTip": "Common.Infrastructure\\InfrastructureConfigurator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T03:10:20.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T03:08:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfrastructureConfigurator.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Infrastructure\\InfrastructureConfigurator.cs",
+              "RelativeDocumentMoniker": "WCS.Infrastructure\\InfrastructureConfigurator.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Infrastructure\\InfrastructureConfigurator.cs",
+              "RelativeToolTip": "WCS.Infrastructure\\InfrastructureConfigurator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:07:37.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationConfigurator.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ApplicationConfigurator.cs",
+              "RelativeDocumentMoniker": "WCS.Application\\ApplicationConfigurator.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ApplicationConfigurator.cs",
+              "RelativeToolTip": "WCS.Application\\ApplicationConfigurator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:06:49.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestCommand.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestCommand.cs",
+              "RelativeDocumentMoniker": "..\\Wes.Source\\MediatR\\TestCommand.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestCommand.cs",
+              "RelativeToolTip": "..\\Wes.Source\\MediatR\\TestCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:46:20.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestQuery.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestQuery.cs",
+              "RelativeDocumentMoniker": "..\\Wes.Source\\MediatR\\TestQuery.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestQuery.cs",
+              "RelativeToolTip": "..\\Wes.Source\\MediatR\\TestQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:46:17.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidationPipelineBehavior.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Common.Application\\MediatR\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Common.Application\\MediatR\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Common.Application\\MediatR\\Behaviors\\ValidationPipelineBehavior.cs",
+              "RelativeToolTip": "..\\Common.Application\\MediatR\\Behaviors\\ValidationPipelineBehavior.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:45:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadlPlcEventHandle.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadlPlcEventHandle.cs",
+              "RelativeDocumentMoniker": "WCS.Application\\ReadPlc\\ReadlPlcEventHandle.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadlPlcEventHandle.cs",
+              "RelativeToolTip": "WCS.Application\\ReadPlc\\ReadlPlcEventHandle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:41:53.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReadPlcEventCommandValidator.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadPlcEventCommandValidator.cs",
+              "RelativeDocumentMoniker": "WCS.Application\\ReadPlc\\ReadPlcEventCommandValidator.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadPlcEventCommandValidator.cs",
+              "RelativeToolTip": "WCS.Application\\ReadPlc\\ReadPlcEventCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:41:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Wes.Source\\Program.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\Program.cs",
+              "RelativeToolTip": "..\\Wes.Source\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:40:24.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadPlcEventCommand.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadPlcEventCommand.cs",
+              "RelativeDocumentMoniker": "WCS.Application\\ReadPlc\\ReadPlcEventCommand.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\ReadPlc\\ReadPlcEventCommand.cs",
+              "RelativeToolTip": "WCS.Application\\ReadPlc\\ReadPlcEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:39:46.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestPipeLinBehavior.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestPipeLinBehavior.cs",
+              "RelativeDocumentMoniker": "..\\Wes.Source\\MediatR\\TestPipeLinBehavior.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\Wes.Source\\MediatR\\TestPipeLinBehavior.cs",
+              "RelativeToolTip": "..\\Wes.Source\\MediatR\\TestPipeLinBehavior.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:38:46.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadS7PlcPipelineBehavior.cs",
+              "DocumentMoniker": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\Behaviors\\ReadS7PlcPipelineBehavior.cs",
+              "RelativeDocumentMoniker": "WCS.Application\\Behaviors\\ReadS7PlcPipelineBehavior.cs",
+              "ToolTip": "D:\\Program\\\u4ED3\u5E93\\WCS\\WCS.Application\\Behaviors\\ReadS7PlcPipelineBehavior.cs",
+              "RelativeToolTip": "WCS.Application\\Behaviors\\ReadS7PlcPipelineBehavior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:38:43.447Z"
             }
           ]
         }

@@ -5,16 +5,14 @@ using Microsoft.Extensions.DependencyInjection;
 namespace Common.Infrastructure.Authorization;
 
 /// <summary>
-/// 用来配置自定义声明转换
+///     用来配置自定义声明转换
 /// </summary>
 /// <param name="serviceScopeFactory"></param>
 internal sealed class CustomClaimsTransformation(IServiceScopeFactory serviceScopeFactory) : IClaimsTransformation
 {
     public async Task<ClaimsPrincipal> TransformAsync(ClaimsPrincipal principal)
     {
-    
-
-        using IServiceScope scope = serviceScopeFactory.CreateScope();
+        using var scope = serviceScopeFactory.CreateScope();
 
         //var claimsIdentity = new ClaimsIdentity();
 

@@ -1,10 +1,9 @@
-﻿namespace Common.Infrastructure.Authentication
+﻿namespace Common.Infrastructure.Authentication;
+
+public class JWTOptions
 {
-    public class JWTOptions
-    {
-        public string Issuer { get; set; }
-        public string Audience { get; set; }
-        public string Key { get; set; }
-        public int ExpireSeconds { get; set; }
-    }
+    public string Issuer { get; set; }
+    public string Audience { get; set; }
+    public string Key { get; set; }
+    public int ExpireSeconds { get; set; }
 }

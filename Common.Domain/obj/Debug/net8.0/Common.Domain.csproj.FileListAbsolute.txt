@@ -9,3 +9,5 @@ D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\Common.Domain.dll
 D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\refint\Common.Domain.dll
 D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\Common.Domain.pdb
 D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\ref\Common.Domain.dll
+D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\Common.Domain.csproj.AssemblyReference.cache
+D:\Program\仓库\WCS\Common.Domain\obj\Debug\net8.0\Common.Domain.sourcelink.json
